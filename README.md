@@ -21,6 +21,6 @@ Help relief organisations, educational facilities and stock market giants perfor
 ![](https://github.com/adityad1/Phoenix_SLAC/blob/main/images/Screenshot%20(111).png)
 
 **Select any country from the dropdown list and follow the curve of the graph and find the count at each point**
-![](https://github.com/adityad1/Phoenix_SLAC/blob/main/images/Screenshot%20(112).png)
+![](https://github.com/adityad1/Phoenix_SLAC/blob/main/images/Screenshot%20(114).png)
 
 
