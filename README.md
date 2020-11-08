@@ -15,12 +15,12 @@ The API supplies the latest data for the COVID-19 outbreak in the world.The endp
 Help relief organisations, educational facilities and stock market giants perform data analysis for maintain better functioning during the tough times.
 
 **Hover over cards**
-![](images/images/Screenshot%20(110).png)
+![](https://github.com/adityad1/Phoenix_SLAC/blob/main/images/Screenshot%20(110).png)
 
 **Hover over specific country**
-![](images/images/Screenshot%20(111).png)
+![](https://github.com/adityad1/Phoenix_SLAC/blob/main/images/Screenshot%20(111).png)
 
 **Select any country from the dropdown list and follow the curve of the graph and find the count at each point**
-![](images/images/Screenshot%20(112).png)
+![](https://github.com/adityad1/Phoenix_SLAC/blob/main/images/Screenshot%20(112).png)
 
 
